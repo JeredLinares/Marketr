@@ -1,6 +1,6 @@
+# TODO
 
-TODO
-[] Design program
+[ ] Design program
 [x] Setup Test HTTP Server
 [x] Setup test MongoDB Server
 
